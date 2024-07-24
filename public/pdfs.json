@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Sample PDF 1",
+    "path": "/pdfs/sample1.pdf",
+    "image": "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/magazine-covers-front-pages-design-template-5f040502d3d645f56a176ad4a5ea1206_screen.jpg?ts=1663179337"
+  },
+  {
+    "name": "Sample PDF 2",
+    "path": "/pdfs/sample2.pdf",
+    "image": "https://i.pinimg.com/originals/ed/d6/76/edd6764c902bd0033fe90a1dd7970d5a.jpg"
+  },
+  {
+    "name": "Sample PDF 3",
+    "path": "/pdfs/sample5.pdf",
+    "image": "https://marketplace.canva.com/EAE7B7xnoCk/1/0/1131w/canva-gray-yellow-modern-business-magazine-cover-7XO2_uvb0dE.jpg"
+  },
+  {
+    "name": "Sample PDF 3",
+    "path": "/pdfs/sample4.pdf",
+    "image": "https://vogueprod.blob.core.windows.net/vogueoutput20240501thumbnails/Covers/0x420/20240501.jpg"
+  },
+  {
+    "name": "Sample PDF 3",
+    "path": "/pdfs/sample5.pdf",
+    "image": "https://www.executive-magazine.com/wp-content/uploads/2024/07/COVER_EX273_april-june-24_page-0001-1920x2591.jpg"
+  },
+  {
+    "name": "Sample PDF 3",
+    "path": "/pdfs/sample3.pdf",
+    "image": "https://i.pinimg.com/564x/18/ec/98/18ec98754a83ebedb2b8d221f674bb07.jpg"
+  },
+  {
+    "name": "Sample PDF 5",
+    "path": "/pdfs/sample5.pdf",
+    "image": "https://marketplace.canva.com/EAFaApl50xY/1/0/1131w/canva-black-and-white-modern-magazine-cover-E0IiwHJ4yWM.jpg"
+  },
+  {
+    "name": "Sample PDF 3",
+    "path": "/pdfs/sample3.pdf",
+    "image": "https://files.magzter.com/resize/magazine/1335165794/1601737854/view/3.jpg"
+  }
+]

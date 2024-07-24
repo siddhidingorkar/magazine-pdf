@@ -1,0 +1,25 @@
+nav {
+  background-color: white;
+  overflow: hidden;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+nav ul li {
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: rgb(19, 16, 16);
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  color: #ccc;
+}
